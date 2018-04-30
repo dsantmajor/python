@@ -8,6 +8,7 @@ Table of contents
     1. [How to install pipenv](#install-pipenv)
 3. [Python Package](#python-package)
 4. [Make the package installable](#setup-py)
+5. Testing](#testing)
 
 
 Introduction
@@ -81,3 +82,6 @@ Setup-py
 ### Setup.py 
 This is the most import file to make the package installable
 We will use setuptools , its a libarary that 
+
+Testing
+--------
